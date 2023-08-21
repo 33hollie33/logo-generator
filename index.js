@@ -40,3 +40,20 @@ class Logo {
         }
     }
 }
+let shape = readLineSync.question("Pick one shape to generate -> rect, circle, triangle? ");
+let color = readLineSync.question("Pick any color you like ");
+
+if (color == "") {
+    console.log("No color input, defaulting to green");
+    color = "green";
+}
+
+let text = readLineSync.question("Pick any text (max. 3 letters) ");
+if (text == "") {
+    console.log("No text input, defaulting to ABC");
+    text = "ABC";
+}
+
+const logo = new Logo(shape, color, text);
+
+logo.saveFile();
