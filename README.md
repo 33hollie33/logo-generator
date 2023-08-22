@@ -23,7 +23,6 @@ SO THAT I don't have to pay a graphic designer
   ## Tools
   Node.js
 
-
   ## License 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 This project is licensed under the terms of MIT.  (https://opensource.org/licenses/MIT)
@@ -32,10 +31,6 @@ This project is licensed under the terms of MIT.  (https://opensource.org/licens
   For any Questions Contact me at: <br />
   Github: https://github.com/33hollie33 <br />
   E-Mail: 
-
-
-
-
 
 # Link to the video walk through:
 chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/e8636776-f7c8-49d2-ya92-ae6e3eaae037
