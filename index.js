@@ -1,5 +1,5 @@
 const fs = require('fs').promises;
-const readLineSync = require('readline-sync');
+const readlineSync = require('readline-sync');
 
 class Logo {
     constructor(shape, color, text) {
@@ -40,15 +40,15 @@ class Logo {
         }
     }
 }
-let shape = readLineSync.question("Pick one shape to generate -> rect, circle, triangle? ");
-let color = readLineSync.question("Pick any color you like ");
+let shape = readlineSync.question("Pick one shape to generate -> rect, circle, triangle? ");
+let color = readlineSync.question("Pick any color you like ");
 
 if (color == "") {
     console.log("No color input, defaulting to green");
     color = "green";
 }
 
-let text = readLineSync.question("Pick any text (max. 3 letters) ");
+let text = readlineSync.question("Pick any text (max. 3 letters) ");
 if (text == "") {
     console.log("No text input, defaulting to ABC");
     text = "ABC";

@@ -1,21 +1,21 @@
 {
     "dependencies": {
-      "inquirer":"^8.2.4"
+        "inquirer": "^8.2.4",
+        "readline-sync": "^1.4.10"
     },
     "name": "package.json",
     "version": "1.0.0",
     "description": "## Your Task",
     "main": "index.js",
     "devDependencies": {
-      "jest": "^29.5.0"
+        "jest": "^29.5.0"
     },
     "scripts": {
-      "test": "jest", 
-      "start": "node index.js"
+        "test": "jest",
+        "start": "node index.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/33hollie33/logo-generator.git"
+        "type": "git",
+        "url": "git+https://github.com/33hollie33/logo-generator.git"
     }
 }
-   
