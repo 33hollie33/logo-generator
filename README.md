@@ -18,7 +18,7 @@ SO THAT I don't have to pay a graphic designer
   - [Questions](#Questions)
 
   ## Installation
-  node install.js
+  node index.js
 
   ## Tools
   Node.js
@@ -30,6 +30,6 @@ This project is licensed under the terms of MIT.  (https://opensource.org/licens
   ## Questions
   For any Questions Contact me at: <br />
   Github: https://github.com/33hollie33 <br />
-  E-Mail: 
+  
 
 # Link to the video walk through:
