@@ -45,8 +45,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 This project is licensed under the terms of MIT.  (https://opensource.org/licenses/MIT)
 
   ## Questions
-  For any Questions Contact me at: <br />
-  Github: https://github.com/33hollie33 <br />
+  For any Questions Contact me at: 
+  Github: https://github.com/33hollie33 
   
 
 # Link to the video walk through:
